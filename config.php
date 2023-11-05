@@ -3,7 +3,7 @@
 $base_url="localhost/domain-managment";
 $whoisapi="rDQTtVcvVkISlnFOoQrrHmTbZoSVqHoP";
 // Veritabanı bilgileri
-$servername = "xpanel.serdardegirmenci.com.tr"; // Sunucu adı veya IP adresi
+$servername = "localhost"; // Sunucu adı veya IP adresi
 $username = "admin_demo"; // MySQL kullanıcı adı
 $password = "Demo.1234"; // MySQL kullanıcı parolası
 $dbname = "admin_demo"; // Veritabanı adı
